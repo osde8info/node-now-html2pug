@@ -19,7 +19,7 @@
     "amazium": "^5.0.0",
     "body-parser": "^1.15.2",
     "co-body": "^6.0.0",
-    "codemirror": "^5.44.0",
+    "codemirror": "^5.58.2",
     "express": "^4.16.4",
     "html2jade": "^0.8.6",
     "whatwg-fetch": "^3.0.0"
